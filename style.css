@@ -208,7 +208,7 @@ ul .items{
     }
     .items .image{
         height: 220px;
-        width: 300px;
+        width: 320px;
         object-fit: cover;
     }
     ul .items{
